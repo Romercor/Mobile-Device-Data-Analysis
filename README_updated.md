@@ -10,10 +10,9 @@ This project investigates the nature of **User Behaviour Classes** within a mobi
 - **Python**: Core programming language used for data analysis, modeling, and statistical calculations.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computations and data handling.
-- **scikit-learn**: For building predictive models, PCA, logistic regression, and validation techniques.
+- **scikit-learn, statsmodels**: For building predictive models, PCA, logistic regression, and validation techniques.
 - **Power BI**: For creating descriptive visualizations and initial data exploration.
 - **Matplotlib & Seaborn**: For data visualization and plotting of analysis results.
-- **SciPy**: Used for hierarchical clustering and dendrogram visualization.
 
 ## Project Structure
 
