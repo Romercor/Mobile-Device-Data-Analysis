@@ -34,18 +34,6 @@ This project investigates the nature of **User Behaviour Classes** within a mobi
 
 The analysis demonstrates that User Behaviour Classes can be effectively distinguished based on device usage time, validated by PCA and logistic regression. This hypothesis is further supported by analyzing the average values of each quantitative variable across classes.
 
-## Future Work
-
-- **Clustering Analysis**: Applying clustering techniques, such as **k-means** or **hierarchical clustering**, on quantitative attributes could further validate the identified User Behaviour Classes.
-- **Model Comparison**: Exploring alternative classification models (e.g., decision trees, SVM) could offer additional perspectives on model performance and robustness.
-
-## Repository Structure
-
-- `Data/`: Contains the original and preprocessed datasets.
-- `Notebooks/`: Includes Jupyter notebooks with code for data analysis, visualization, and modeling.
-- `Reports/`: Power BI reports summarizing descriptive statistics and initial visual exploration.
-- `Models/`: Contains the logistic regression model and PCA results.
-
 ## Results
 
 Through dimensionality reduction and logistic regression, the project achieved a highly accurate predictive model for User Behaviour Classes. Cross-validation confirms its robustness, making it a valuable tool for segmenting user behavior in mobile device contexts.
